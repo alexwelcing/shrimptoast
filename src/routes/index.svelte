@@ -19,11 +19,11 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		Shrimp Toast<br />
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/index.svelte</strong>
+		Earth's <strong>Bravest Kitten</strong>
 	</h2>
 
 	<Counter />
